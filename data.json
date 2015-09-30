@@ -1,0 +1,91 @@
+{
+
+  "name": "Work Experience",
+  "children": [
+    {
+      "name": "Logica/CGI",
+      "children": [
+        {
+          "name": "e-Spot: Webservices",
+          "size": 5
+        },
+        {
+          "name": "Electrabel",
+          "children": [
+            {
+              "name": "TOP",
+              "size": 4
+            },
+            {
+              "name": "HARPON",
+              "size": 2
+            },
+            {
+              "name": "Service Request Tool",
+              "size": 1
+            },
+            {
+              "name": "Commodity Bidding",
+              "size": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "RealDolmen",
+      "children": [
+        {
+          "name": "Rutgers: WCF Service",
+          "size": 1
+        },
+        {
+          "name": "RIZIV",
+          "children": [
+            {
+              "name": "VTIM",
+              "size": 4
+            },
+            {
+              "name": "IDES",
+              "size": 5
+            }
+          ]
+        },
+        {
+          "name": "KPMG: KIDS Automation",
+          "size": 2
+        },
+        {
+          "name": "RealDolmen: Community Site",
+          "size": 4
+        },
+        {
+          "name": "Electrabel",
+          "children": [
+            {
+              "name": "Gesto",
+              "size": 2
+            },
+            {
+              "name": "Geway",
+              "size": 2
+            }
+          ]
+        },
+        {
+          "name": "Retail Estates: Application",
+          "size": 1
+        },
+        {
+          "name": "BVL: Time Registration Site Migration",
+          "size": 5
+        },
+        {
+          "name": "Selor: RSS HR-XML",
+          "size": 1
+        }
+      ]
+    }
+  ]
+}

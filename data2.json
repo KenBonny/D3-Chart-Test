@@ -1,0 +1,112 @@
+{
+
+  "name": "Work Experience",
+  "description": "Work Experience",
+  "children": [
+    {
+      "name": "Logica/CGI",
+      "description": "Logica/CGI",
+      "children": [
+        {
+          "name": "e-Spot: Webservices",
+          "description": "e-Spot: Webservices",
+          "size": 5
+        },
+        {
+          "name": "Electrabel",
+          "description": "Electrabel",
+          "children": [
+            {
+              "name": "TOP",
+              "description": "TOP",
+              "size": 4
+            },
+            {
+              "name": "HARPON",
+              "description": "HARPON",
+              "size": 2
+            },
+            {
+              "name": "Service Request Tool",
+              "description": "Service Request Tool",
+              "size": 1
+            },
+            {
+              "name": "Commodity Bidding",
+              "description": "Commodity Bidding",
+              "size": 6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "RealDolmen",
+      "description": "RealDolmen",
+      "children": [
+        {
+          "name": "Rutgers: WCF Service",
+          "description": "Rutgers: WCF Service",
+          "size": 1
+        },
+        {
+          "name": "RIZIV",
+          "description": "RIZIV",
+          "children": [
+            {
+              "name": "VTIM",
+              "description": "VTIM",
+              "size": 4
+            },
+            {
+              "name": "IDES",
+              "description": "IDES",
+              "size": 5
+            }
+          ]
+        },
+        {
+          "name": "KPMG: KIDS Automation",
+          "description": "KPMG: KIDS Automation",
+          "size": 2
+        },
+        {
+          "name": "RealDolmen: Community Site",
+          "description": "RealDolmen: Community Site",
+          "size": 4
+        },
+        {
+          "name": "Electrabel",
+          "description": "Electrabel",
+          "children": [
+            {
+              "name": "Gesto",
+              "description": "Gesto",
+              "size": 2
+            },
+            {
+              "name": "Geway",
+              "description": "Geway",
+              "size": 2
+            }
+          ]
+        },
+        {
+          "name": "Retail Estates: Application",
+          "description": "Retail Estates: Application",
+          "size": 1
+        },
+        {
+          "name": "BVL: Time Registration Site Migration",
+          "description": "BVL: Time Registration Site Migration",
+          "size": 5
+        },
+        {
+          "name": "Selor: RSS HR-XML",
+          "description": "Selor: RSS HR-XML",
+          "size": 1
+        }
+      ]
+    }
+  ]
+}
